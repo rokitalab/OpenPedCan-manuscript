@@ -70,8 +70,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-28" />
   <meta name="citation_publication_date" content="2025-02-28" />
   <meta property="article:published_time" content="2025-02-28" />
-  <meta name="dc.modified" content="2025-02-28T16:17:21+00:00" />
-  <meta property="article:modified_time" content="2025-02-28T16:17:21+00:00" />
+  <meta name="dc.modified" content="2025-02-28T20:36:02+00:00" />
+  <meta property="article:modified_time" content="2025-02-28T20:36:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -86,6 +86,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0001-8073-3797" />
   <meta name="citation_author" content="Ryan J. Corbett" />
+  <meta name="citation_author_institution" content="Center for Cancer and Immunology Research, Children&#39;s National Hospital, Washington, DC, 20010, USA" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0002-3478-0784" />
@@ -121,6 +122,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0002-2032-4358" />
   <meta name="citation_author" content="Alex Sickler" />
+  <meta name="citation_author_institution" content="Center for Cancer and Immunology Research, Children&#39;s National Hospital, Washington, DC, 20010, USA" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0001-7830-7537" />
@@ -257,6 +259,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania Perelman Medical School, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0002-3302-4610" />
   <meta name="citation_author" content="Jo Lynne Rokita" />
+  <meta name="citation_author_institution" content="Center for Cancer and Immunology Research, Children&#39;s National Hospital, Washington, DC, 20010, USA" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
@@ -268,9 +271,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
   <meta name="citation_pdf_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/" />
-  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/85ce510b1432ac63e656d148f7ae9619bb855faf/" />
+  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/85ce510b1432ac63e656d148f7ae9619bb855faf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/85ce510b1432ac63e656d148f7ae9619bb855faf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -292,9 +295,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/d56f5f4b67e3a199bf179bf3e388b51283571871/))
+([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/85ce510b1432ac63e656d148f7ae9619bb855faf/))
 was automatically generated
-from [rokitalab/OpenPedCan-manuscript@d56f5f4](https://github.com/rokitalab/OpenPedCan-manuscript/tree/d56f5f4b67e3a199bf179bf3e388b51283571871)
+from [rokitalab/OpenPedCan-manuscript@85ce510](https://github.com/rokitalab/OpenPedCan-manuscript/tree/85ce510b1432ac63e656d148f7ae9619bb855faf)
 on 2025-02-28.
 </em></small>
 
@@ -326,7 +329,7 @@ on 2025-02-28.
     · ![GitHub icon](images/github.png){.inline_icon}
     [rjcorb](https://github.com/rjcorb)<br>
   <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+     Center for Cancer and Immunology Research, Children's National Hospital, Washington, DC, 20010, USA; Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
 + **Yuanchao Zhang**<br><br>
@@ -401,7 +404,7 @@ on 2025-02-28.
     · ![GitHub icon](images/github.png){.inline_icon}
     [sickler-alex](https://github.com/sickler-alex)<br>
   <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+     Center for Cancer and Immunology Research, Children's National Hospital, Washington, DC, 20010, USA; Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
 + **Kelsey Keith**<br>
@@ -675,7 +678,7 @@ on 2025-02-28.
     · ![GitHub icon](images/github.png){.inline_icon}
     [jharenza](https://github.com/jharenza)<br>
   <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+     Center for Cancer and Immunology Research, Children's National Hospital, Washington, DC, 20010, USA; Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
      · Funded by NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003
   </small>
 
@@ -1073,7 +1076,7 @@ Finally, we include an option (`nonsynfilter_focr`) to use specific nonsynonymou
 
 #### Molecular Subtyping
 Here, we build upon the molecular subtyping performed in OpenPBTA [@doi:10.1016/j.xgen.2023.100340] to align with WHO 2021 subtypes [@doi:10.1093/neuonc/noab106].
-Molecular subtypes were generated per tumor event and are listed for each biospecimen in [**Supplemental Table S1**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable1-Histologies.xlsx), with the number of tumors grouped by broad histology and molecular subtype in [**Supplemental Table S2**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable2-Molecular-Subtype-Table.xlsx).
+Molecular subtypes were generated per tumor event and are listed for each biospecimen in [**Supplemental Table 1**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable1-Histologies.xlsx), with the number of tumors grouped by broad histology and molecular subtype in [**Supplemental Table 2**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable2-Molecular-Subtype-Table.xlsx).
 
 **High-grade gliomas**
 
@@ -1209,6 +1212,7 @@ We ran NGSCheckMate [@doi:10.1093/nar/gkx193] to confirm tumor/normal sample mat
 We also ran `somalier relate` [@doi:10.1186/s13073-020-00761-2] to identify potential mismatched samples.
 We required that at least 20M total reads with 50% of RNA-Seq reads mapped to the human reference for samples to be included in analysis. 
 We required at least 20X coverage for tumor DNA samples to be included in this analysis.
+Additional DNA- and RNA-sequencing quality control metrics can be found in [**Supplemental Table 4**](https://github.com/d3b-center/OpenPedCan-analysis/blob/d23af69b5acb508557a3a7d8d1759445c82a8b5d/tables/results/SuppTable4-dna-rna-qc.xlsx).
 
 
 ## Re-use potential
