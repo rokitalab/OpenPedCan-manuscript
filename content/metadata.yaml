@@ -39,11 +39,13 @@ authors:
   name: Ryan J. Corbett
   initials: RJC
   orcid: 0000-0002-3478-0784
-  email: corbettr@chop.edu
+  email: rcorbett@childrensnational.org
   contributions:
   - Formal analysis
   - Writing - original draft
   affiliations:
+  - Center for Cancer and Immunology Research, Children's National Hospital, Washington, 
+    DC, 20010, USA
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
     Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
@@ -153,11 +155,13 @@ authors:
   name: Alex Sickler
   initials: AJS
   orcid: 0000-0001-7830-7537
-  email: sicklera@chop.edu
+  email: asickler@childrensnational.org
   contributions:
   - Methodology
   - Formal analysis
   affiliations:
+  - Center for Cancer and Immunology Research, Children's National Hospital, Washington, 
+    DC, 20010, USA
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
     Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
@@ -254,7 +258,7 @@ authors:
   name: Nicholas Van Kuren
   initials: NK
   orcid: 0000-0002-7414-9516
-  email: vankurenn@chop.edu
+  email: nicholasvk@gmail.com
   contributions:
   - Data curation
   - Software
@@ -588,7 +592,7 @@ authors:
   initials: JR
   orcid: 0000-0003-2171-3627
   twitter: jolynnerokita
-  email: rokita@chop.edu
+  email: jrokita@childrensnational.org
   corresponding: yes
   contributions:
   - Conceptualization
@@ -603,6 +607,8 @@ authors:
   - Writing – Original draft
   - Writing - Review and editing
   affiliations:
+  - Center for Cancer and Immunology Research, Children's National Hospital, Washington, 
+    DC, 20010, USA
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia,
     Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA,
