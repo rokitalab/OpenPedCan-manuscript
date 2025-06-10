@@ -6,7 +6,7 @@ keywords:
 - open science
 - multi-omics
 lang: en-US
-date-meta: '2025-02-28'
+date-meta: '2025-06-10'
 author-meta:
 - Zhuangzhuang Geng
 - Eric Wafula
@@ -67,11 +67,11 @@ header-includes: |
   <meta name="citation_title" content="The Open Pediatric Cancer Project" />
   <meta property="og:title" content="The Open Pediatric Cancer Project" />
   <meta property="twitter:title" content="The Open Pediatric Cancer Project" />
-  <meta name="dc.date" content="2025-02-28" />
-  <meta name="citation_publication_date" content="2025-02-28" />
-  <meta property="article:published_time" content="2025-02-28" />
-  <meta name="dc.modified" content="2025-02-28T21:09:20+00:00" />
-  <meta property="article:modified_time" content="2025-02-28T21:09:20+00:00" />
+  <meta name="dc.date" content="2025-06-10" />
+  <meta name="citation_publication_date" content="2025-06-10" />
+  <meta property="article:published_time" content="2025-06-10" />
+  <meta name="dc.modified" content="2025-06-10T15:44:03+00:00" />
+  <meta property="article:modified_time" content="2025-06-10T15:44:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -271,9 +271,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
   <meta name="citation_pdf_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/58bb1a22addef148520023ab93271a36720397cf/" />
-  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/58bb1a22addef148520023ab93271a36720397cf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/58bb1a22addef148520023ab93271a36720397cf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/" />
+  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -295,10 +295,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/58bb1a22addef148520023ab93271a36720397cf/))
+([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/))
 was automatically generated
-from [rokitalab/OpenPedCan-manuscript@58bb1a2](https://github.com/rokitalab/OpenPedCan-manuscript/tree/58bb1a22addef148520023ab93271a36720397cf)
-on 2025-02-28.
+from [rokitalab/OpenPedCan-manuscript@fd8c309](https://github.com/rokitalab/OpenPedCan-manuscript/tree/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53)
+on 2025-06-10.
 </em></small>
 
 ## Authors
@@ -760,7 +760,7 @@ Additional PBTA data has been, and will be continually added to, OpenPedCan.
 
 The Therapeutically Applicable Research to Generate Effective Treatments (TARGET) Initiative is an NCI-funded collection of disease-specific projects that seeks to identify the genomic changes of pediatric cancers. 
 The overall goal is to collect genomic data to accelerate the development of more effective therapies.
-OpenPedCan analyses include the seven diseases present in the TARGET dataset: Acute Lymphoblastic Leukemia (ALL), Acute Myeloid Leukemia (AML), Clear cell sarcoma of the kidney, Neuroblastoma, Osteosarcoma, Rhabdoid tumor, and Wilm’s Tumor.
+OpenPedCan analyses include newly harmonized, open-access data associated with the seven diseases present in the TARGET dataset: Acute Lymphoblastic Leukemia (ALL), Acute Myeloid Leukemia (AML), Clear cell sarcoma of the kidney, Neuroblastoma, Osteosarcoma, Rhabdoid tumor, and Wilm’s Tumor.
 
 **Gabriella Miller Kids First [(Neuroblastoma)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001436.v1.p1) and [PBTA](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002517.v2.p2)**
 
@@ -795,7 +795,7 @@ OpenPedCan project includes 17,382 GTEx RNA-Seq samples from GTEx v8 release, wh
 
 TCGA is a landmark cancer genomics program that molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types.
 It is a joint effort between NCI and the National Human Genome Research Institute.
-OpenPedCan project includes 10,414 TCGA RNA-Seq samples (716 normal and 9698 tumor) from [33 cancer types](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/dev/analyses/molecular-subtyping-integrate/results/tcga_cancer_groups.tsv).
+OpenPedCan project includes open-access 10,414 RNA-Seq for 716 normal and 9,698 TCGA tumor samples from [33 cancer types](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/dev/analyses/molecular-subtyping-integrate/results/tcga_cancer_groups.tsv).
 
 **Clinical Proteomic Tumor Analysis Consortium (CPTAC) PBTA proteomics study** 
 
@@ -814,6 +814,7 @@ Project HOPE is an adolescent and young adult high-grade glioma study (in prepar
 
 Creation of this dataset had multiple motivations.
 First, we sought to harmonize, summarize, and contextualize pediatric cancer genomics data among normal tissues (GTEx) and adult cancer tissues (TCGA) to enable the creation of the National Cancer Institute's Molecular Targets Platform (MTP) at https://moleculartargets.ccdi.cancer.gov/.
+The inclusion of harmonized GTEx and adult TCGA data specifically allows for the identification of genes and/or transcripts expressed in a tumor-specific and/or pediatric tumor-specific manner.
 Next, we created this resource for broad community use to promote rapid reuse and accelerate the discovery of additional mechanisms contributing to the pathogenesis of pediatric cancers and/or to identify novel candidate therapeutic targets for pediatric cancer.
 
 Similar to OpenPBTA, OpenPedCan operates on a pull request model to accept contributions.
@@ -897,7 +898,7 @@ We adopted the consensus SNV calling method described in OpenPBTA manuscript wit
 For SNV calling, we combined four consensus SNV calling algorithms: Strelka2[@doi:10.1038/s41592-018-0051-x], Mutect2[@doi:10.1101/861054], Lancet[@doi:10.1038/s42003-018-0023-9], and VarDict[@doi:10.1093/nar/gkw227].
 
 Strelka2 outputs multi-nucleotide polymorphisms (MNPs) as consecutive single-nucleotide polymorphisms.
-In order preserve MNPs, we gather MNP calls from the other caller inputs, and search for evidence supporting these consecutive SNP calls as MNP candidates.
+In order to preserve MNPs, we gather MNP calls from the other caller inputs, and search for evidence supporting these consecutive SNP calls as MNP candidates.
 Once found, the Strelka2 SNP calls supporting a MNP are converted to a single MNP call.
 This is done to preserve the predicted gene model as accurately as possible in our consensus calls.
 Consensus SNV from all four callers were collected and by default, calls that were detected in at least two calling algorithms or marked with "HotSpotAllele" were retained. 
@@ -1216,7 +1217,9 @@ Additional DNA- and RNA-sequencing quality control metrics can be found in [**Su
 
 
 ## Re-use potential
-OpenPedCan serves as a community resource whose outputs and/or code can be leveraged directly to ask research questions or serve as an orthogonal validation dataset.
+OpenPedCan represents a valuable resource, not only by significantly extending OpenPBTA to include more than 5,000 additional patients and 6,000 tumors, but also by adding a number of new "omic" data types not previously included, such as methylation arrays, miRNA-Seq, proteomics, and normal tissue RNA-Seq. 
+OpenPedCan also serves as a community resource whose outputs and/or code can be leveraged directly to ask research questions or serve as an orthogonal validation dataset.
+By providing this data in a harmonized manner, we enable investigators to reduce the financial and time-related costs associated with their analyses, which would otherwise total years of project hours and over $50,000 in data analysis alone [@doi: 10.1038/s41597-019-0096-4].
 We encourage re-use of the data, ideas and suggestions for improving the data or adding analyses, and/or direct code contributions through a pull-request.
 Further, the analysis modules can be run within the project Docker container locally or on EC2 and scaled as the data size increases.
 
@@ -1267,7 +1270,18 @@ The Cancer Genome Atlas (TCGA) dataset is available in dbGAP under phs000178.v11
 
 Merged summary files for the latest release of OpenPedCan are openly accessible in [CAVATICA](https://cavatica.sbgenomics.com/u/cavatica/opentarget) or via `download-data.sh` script in the [https://github.com/d3b-center/OpenPedCan-analysis](https://github.com/d3b-center/OpenPedCan-analysis) repository.
 Cancer group summary data from release v11 are visible within the NCI's pediatric [Molecular Targets Platform](https://moleculartargets.ccdi.cancer.gov/). 
-Cohort, cancer group, and individual data are visible within [PedcBioPortal](https://pedcbioportal.kidsfirstdrc.org/study/summary?id=openpedcan_v15)
+Cohort, cancer group, and individual data are visible within [PedcBioPortal](https://pedcbioportal.kidsfirstdrc.org/study/summary?id=openpedcan_v15).
+An overview of the OpenPedCan data availability is summarized in [**Table 1{@tbl:table1}**].
+
+| Platform | Data Type | Access Type | Access Requirement |
+|----------|----------|----------|----------|
+| PedcBioPortal | Individual and summary somatic data | Query |  Gmail account |
+| Molecular Targets Platform | Cancer group summary data | Query | Open Access |
+| GitHub | Merged summary files | Full access | AWS S3 download script |
+| CAVATICA | Merged summary files | Full access | CAVATICA account|
+| dbGAP - phs002517.v4.p2 | Raw data | Full access | Access request via institution |
+
+Table: **OpenPedCan Data Availability.** OpenPedCan data is available on multiple platforms with varying access requirements. {#tbl:table1}
 
 
 
