@@ -70,8 +70,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-10" />
   <meta name="citation_publication_date" content="2025-06-10" />
   <meta property="article:published_time" content="2025-06-10" />
-  <meta name="dc.modified" content="2025-06-10T15:44:03+00:00" />
-  <meta property="article:modified_time" content="2025-06-10T15:44:03+00:00" />
+  <meta name="dc.modified" content="2025-06-10T15:56:48+00:00" />
+  <meta property="article:modified_time" content="2025-06-10T15:56:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -271,9 +271,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
   <meta name="citation_pdf_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/" />
-  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/" />
+  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -295,9 +295,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53/))
+([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/))
 was automatically generated
-from [rokitalab/OpenPedCan-manuscript@fd8c309](https://github.com/rokitalab/OpenPedCan-manuscript/tree/fd8c309e04c5f59ae7729f0cb2d7c55b12c09e53)
+from [rokitalab/OpenPedCan-manuscript@69b80ab](https://github.com/rokitalab/OpenPedCan-manuscript/tree/69b80ab6ac621f71b50feab0294244de09c13e24)
 on 2025-06-10.
 </em></small>
 
