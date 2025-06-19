@@ -6,7 +6,7 @@ keywords:
 - open science
 - multi-omics
 lang: en-US
-date-meta: '2025-06-10'
+date-meta: '2025-06-19'
 author-meta:
 - Zhuangzhuang Geng
 - Eric Wafula
@@ -25,6 +25,7 @@ author-meta:
 - Antonia Chroni
 - Miguel A. Brown
 - Adam A. Kraya
+- Kaylyn L. Clark
 - Brian R. Rood
 - Adam C. Resnick
 - Nicholas Van Kuren
@@ -67,11 +68,11 @@ header-includes: |
   <meta name="citation_title" content="The Open Pediatric Cancer Project" />
   <meta property="og:title" content="The Open Pediatric Cancer Project" />
   <meta property="twitter:title" content="The Open Pediatric Cancer Project" />
-  <meta name="dc.date" content="2025-06-10" />
-  <meta name="citation_publication_date" content="2025-06-10" />
-  <meta property="article:published_time" content="2025-06-10" />
-  <meta name="dc.modified" content="2025-06-10T15:56:48+00:00" />
-  <meta property="article:modified_time" content="2025-06-10T15:56:48+00:00" />
+  <meta name="dc.date" content="2025-06-19" />
+  <meta name="citation_publication_date" content="2025-06-19" />
+  <meta property="article:published_time" content="2025-06-19" />
+  <meta name="dc.modified" content="2025-06-19T14:29:16+00:00" />
+  <meta property="article:modified_time" content="2025-06-19T14:29:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -145,8 +146,11 @@ header-includes: |
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0002-8526-5694" />
+  <meta name="citation_author" content="Kaylyn L. Clark" />
+  <meta name="citation_author_institution" content="Center for Cancer and Immunology Research, Children&#39;s National Hospital, Washington, DC, 20010, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-7207-6608" />
   <meta name="citation_author" content="Brian R. Rood" />
-  <meta name="citation_author_institution" content="Children&#39;s National Research Institute, Washington, D.C." />
+  <meta name="citation_author_institution" content="Center for Cancer and Immunology Research, Children&#39;s National Hospital, Washington, DC, 20010, USA" />
   <meta name="citation_author_institution" content="George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA" />
   <meta name="citation_author" content="Adam C. Resnick" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
@@ -200,7 +204,6 @@ header-includes: |
   <meta name="citation_author" content="Jennifer L. Mason" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="twitter:creator" content="@jenn0307" />
   <meta name="citation_author" content="Carl J. Koschmann" />
   <meta name="citation_author_institution" content="Department of Pediatrics, University of Michigan Health, Ann Arbor, MI, 48105, USA" />
   <meta name="citation_author_institution" content="Pediatric Hematology Oncology, Mott Children&#39;s Hospital, Ann Arbor, MI, 48109, USA" />
@@ -222,7 +225,7 @@ header-includes: |
   <meta name="citation_author_orcid" content="0000-0001-6727-6333" />
   <meta name="citation_author" content="Weiping Ma" />
   <meta name="citation_author_institution" content="Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
-  <meta name="citation_author_institution" content="Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
+  <meta name="citation_author_institution" content="Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA" />
   <meta name="citation_author" content="Bo Zhang" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
@@ -271,9 +274,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
   <meta name="citation_pdf_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/" />
-  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/baf80bb2e18c418978b9fa2e79eef40e8570b427/" />
+  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/baf80bb2e18c418978b9fa2e79eef40e8570b427/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/baf80bb2e18c418978b9fa2e79eef40e8570b427/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -295,10 +298,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/69b80ab6ac621f71b50feab0294244de09c13e24/))
+([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/baf80bb2e18c418978b9fa2e79eef40e8570b427/))
 was automatically generated
-from [rokitalab/OpenPedCan-manuscript@69b80ab](https://github.com/rokitalab/OpenPedCan-manuscript/tree/69b80ab6ac621f71b50feab0294244de09c13e24)
-on 2025-06-10.
+from [rokitalab/OpenPedCan-manuscript@baf80bb](https://github.com/rokitalab/OpenPedCan-manuscript/tree/baf80bb2e18c418978b9fa2e79eef40e8570b427)
+on 2025-06-19.
 </em></small>
 
 ## Authors
@@ -450,9 +453,16 @@ on 2025-06-10.
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
++ **Kaylyn L. Clark**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0002-7207-6608](https://orcid.org/0000-0002-7207-6608)<br>
+  <small>
+     Center for Cancer and Immunology Research, Children's National Hospital, Washington, DC, 20010, USA
+  </small>
+
 + **Brian R. Rood**<br><br>
   <small>
-     Children's National Research Institute, Washington, D.C.; George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA
+     Center for Cancer and Immunology Research, Children's National Hospital, Washington, DC, 20010, USA; George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA
   </small>
 
 + **Adam C. Resnick**<br>
@@ -462,7 +472,7 @@ on 2025-06-10.
     [adamcresnick](https://github.com/adamcresnick)<br>
   <small>
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-     · Funded by Children's Brain Tumor Network; NIH 3P30 CA016520-44S5, U2C HL138346-03, U24 CA220457-03; NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003; Children’s Hospital of Philadelphia Division of Neurosurgery
+     · Funded by Children's Brain Tumor Network; NIH 3P30 CA016520-44S5, U2C HL138346-03, U24 CA220457-03; NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003; Children's Hospital of Philadelphia Division of Neurosurgery
   </small>
 
 + **Nicholas Van Kuren**<br>
@@ -596,7 +606,7 @@ on 2025-06-10.
 
 + **Weiping Ma**<br><br>
   <small>
-     Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+     Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY, 10029, USA
   </small>
 
 + **Bo Zhang**<br>
@@ -728,7 +738,9 @@ Pediatric cancer, open science, reproducibility, multi-omics, Docker
 
 The Open Pediatric Cancer (OpenPedCan) project is an iterative open analysis effort in which we harmonize pediatric cancer data from multiple sources, perform downstream cancer analyses on these data, and provide them through Amazon S3, CAVATICA, PedcBioPortal, and v2.1 of NCI's [Pediatric Molecular Targets Platform (MTP)](https://moleculartargets.ccdi.cancer.gov/).
 We harmonized, aggregated, and analyzed data from multiple pediatric and adult data sources, building upon the work of the OpenPBTA (**Figure {@fig:Fig1}**).
-Biospecimen-level metadata and clinical data are contained in [**Supplemental Table 1**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable1-Histologies.xlsx).
+All RNA-seq and DNA-seq data from OpenPBTA were updated from GENCODE v27 to GENCODE v39 as part of the OpenPedCan project.
+Further, all data within OpenPedCan is harmonized with GENCODE v39 annotations.
+Biospecimen-level metadata and clinical data are contained in [**Supplemental Table 1**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/b19ec4ffdbf4eda6b67fea10c84e1db7bd3d1b8c/tables/results/SuppTable1-Histologies.xlsx).
 
 ![**OpenPedCan Data.** A, OpenPedCan contains multi-omic data from seven cohorts of pediatric tumors (A-B) with counts by tumor event, RNA-Seq from adult tumors from The Cancer Genome Atlas (TCGA) Program (C-D) and RNA-Seq from normal adult tissues from the Genotype-Tissue Expression (GTeX) project (E) with counts by specimen. (Abbreviations: TARGET = Therapeutically Applicable Research to Generate Effective Treatments , PPTC = Pediatric Preclinical Testing Consortium, PBTA = Pediatric Brain Tumor Atlas, Maris = Neuroblastoma cell lines from the Maris Laboratory at CHOP, GMKF = Gabriella Miller Kids First, DGD = Division of Genomic Diagnostics at CHOP, CPTAC = Clinical Proteomic Tumor Analysis Consortium)](https://raw.githubusercontent.com/rokitalab/OpenPedCan-Project-CNH/e0e35bb13fd8542b807f7ea75ffd3ab857c522cb/figures/manuscript_OPC/figure1/Figure1.png?sanitize=true){#fig:Fig1 width="7in"}
 
@@ -775,7 +787,8 @@ The [Chordoma Foundation](https://www.chordomafoundation.org) seeks to advance r
 **Pediatric Preclinical Testing Consortium [(PPTC)](@https://ctep.cancer.gov/MajorInitiatives/Pediatric_PIVOT_Program.htm])**
 
 The National Cancer Institute's (NCI) former PPTC,  now the [Pediatric Preclinical in Vivo Testing (PIVOT) Program](https://preclinicalpivot.org/about-pivot/), molecularly and pharmacologically characterizes cell-derived and patient-derived xenograft (PDX) models. 
-OpenPedCan includes re-harmonized RNA-Seq data for 244 models from the initial PPTC study [@doi:10.1016/j.celrep.2019.09.071]. 
+OpenPedCan includes re-harmonized RNA-Seq data for 244 models from the initial PPTC study [@doi:10.1016/j.celrep.2019.09.071].
+A subset of PPTC includes neuroblastoma models; the `Maris` cohort includes re-harmonized RNA-Seq data for 39 neuroblastoma cell lines [@doi:10.1038/sdata.2017.33], some of which have corresponding PDX models within the PPTC.
 
 **MI-ONCOSEQ Study [@https://www.pathology.med.umich.edu/mctp/mi-oncoseq-study]**
 
@@ -825,7 +838,7 @@ The project maintainers have included engineers and scientists from the [Childre
 
 ## Methods
 An overview of the OpenPedCan methods is depicted in **Figure {@fig:Fig2}**.
-Briefly, most primary harmonization analysis workflows were performed with Kids First pipelines written in Common Workflow Language (CWL) using CAVATICA (detailed below). 
+Briefly, most primary data harmonization analysis workflows were performed with Kids First pipelines written in Common Workflow Language (CWL) using CAVATICA (detailed below). 
 Alignment and expression quantification for GTEx and TCGA RNA-Seq was performed by the respective consortium.
 Custom python, R, and/or bash scripts were then created in OpenPedCan using the primary harmonized output files.
 
@@ -840,7 +853,7 @@ For any article that presents software, in addition to making the source code av
 Once the code is published on Code Ocean, you will be issued DOI, which should be used to cite the compute capsule in the software section and any other relevant reference in the paper. Readers will then be able to view and verify the article’s results without needing to download or install anything. To submit, sign up to CodeOcean.
 -->
 
-### Method Details
+### Sample Details
 
 #### Nucleic acids extraction and library preparation (PBTA X01 and miRNA-Seq)
 For detailed methods about the OpenPBTA cohort, please refer to the manuscript [@doi:10.1016/j.xgen.2023.100340].
@@ -880,6 +893,8 @@ Libraries were sequenced using an Illumina Nextseq 500 per manufacturer guidelin
 FASTQ files were generated from raw sequencing data using Illumina BaseSpace and analyzed with the HTG EdgeSeq Parser software v5.4.0.7543 to generate an excel file containing quantification of 2083 miRNAs per sample. 
 Any sample that did not pass the quality control set by the HTG REVEAL software version 2.0.1 (Tuscon, AR, USA) was excluded from the analysis.
 
+### Primary Workflows through Kids First
+
 #### DNA WGS Alignment and SNP Calling
 Please refer to the OpenPBTA manuscript for details on DNA WGS Alignment, prediction of participants’ genetic sex, and SNP calling for B-allele Frequency (BAF) generation. [@doi:10.1016/j.xgen.2023.100340].
 
@@ -915,22 +930,8 @@ Both are also linked in the public [Kids First references CAVATICA project](http
 The Control-FREEC tumor only workflow can be found [here](https://github.com/kids-first/kf-tumor-workflow/blob/v0.3.0-beta/workflows/kfdrc_controlfreec_tumor_only_wf.cwl).
 
 #### Somatic Structural Variant Calling (WGS samples only)
-Please refer to the OpenPBTA manuscript for details [@doi:10.1016/j.xgen.2023.100340].
-
-#### Methylation Analysis
-**Methylation array preprocessing**
-
-We preprocessed raw Illumina 450K and EPIC 850K Infinium Human Methylation Bead Array intensities using the array preprocessing methods implemented in the `minfi Bioconductor package` [@doi:10.1093/bioinformatics/btw691].
-We utilized either `preprocessFunnorm` when an array dataset had both tumor and normal samples or multiple OpenPedcan-defined `cancer_groups` and `preprocessQuantile` when an array dataset had only tumor samples from a single OpenPedcan-defined `cancer_group` to estimate usable methylation measurements (`beta-values` and `m-values`) and copy number (`cn-values`).
-Some Illumina Infinium array probes targeting CpG loci contain single-nucleotide polymorphisms (SNPs) near or within the probe [@doi:10.1038/bjc.2013.496], which could affect DNA methylation measurements [@doi:10.1186/s12864-015-2202-0].
-As the minfi preprocessing workflow recommends, we dropped probes containing common SNPs in dbSNP (minor allele frequency > 1%) at the CpG interrogation or the single nucleotide extensions.
-
-Details of methylation array preprocessing are available in the [OpenPedCan methylation-preprocessing module](https://github.com/d3b-center/OpenPedCan-analysis/tree/dev/analyses/methylation-preprocessing).
-
-**Methylation classification of brain tumor molecular subtypes**
-
-The Clinical Methylation Unit Laboratory of Pathology at the National Cancer Institute Center for Cancer Research ran the [DKFZ brain classifier version 12.6](https://www.molecularneuropathology.org/mnp/classifiers/11), a comprehensive DNA methylation-based classification of CNS tumors across all entities and age groups [@doi:10.1038/nature26000] and/or the Bethesda Brain tumor classifier v2.0 (NIH_v2) and the combo reporter pipeline v2.0 on docker container trust1/bethesda:latest.
-Unprocessed IDAT-files from the [Children's Brain Tumor Network (CBTN)](https://cbtn.org/) `Infinium Human Methylation EPIC (850k) BeadChip arrays` were used as input and the following information was compiled into the `histologies.tsv` file: `dkfz_v12_methylation_subclass` (predicted methylation subtype), `dkfz_v12_methylation_subclass_score` (classification score), `dkfz_v12_methylation_mgmt_status` (_MGMT_ methylation status), `dkfz_v12_methylation_mgmt_estimated` (estimated _MGMT_ methylation fraction), `NIH_v2_methylation_Superfamily`, `NIH_v2_methylation_Superfamily_mean_score`, `NIH_v2_methylation_Superfamily_Consistency_score`, `NIH_v2_methylation_Class`, `NIH_v2_methylation_Class_mean_score`, `NIH_v2_methylation_Class_consistency_score`, `NIH_v2_methylation_Superfamily_match`, and `NIH_v2_methylation_Class_match`. 
+We called structural variants (SVs) using Manta [@doi:10/gf3ggb], restricting analysis to the same regions utilized by Strelka2. 
+We annotated SVs using AnnotSV [@doi:10.1093/bioinformatics/bty304]. 
 
 #### Gene Expression
 The [`tumor-normal-differential-expression`](https://github.com/d3b-center/OpenPedCan-analysis/tree/dev/analyses/tumor-normal-differential-expression) module performs differential expression analyses for all sets of Disease (`cancer_group`) and Dataset (`cohort`) across all genes found in the `gene-expression-rsem-tpm-collapsed.rds` table.
@@ -968,9 +969,10 @@ Fusions are now filtered with annoFuse [@doi:10.1186/s12859-020-03922-7] upstrea
 Clinical RNA fusion calls from the [CHOP DGD fusion panel](https://www.testmenu.com/chop/Tests/785504) are included in the data release in the `fusion-dgd.tsv.gz` file.
 
 #### Splicing quantification
-
 To detect alternative splicing events, we utilized rMATS turbo (v. 4.1.0) with Ensembl/GENCODE v39 GFF annotations using the [Kids First RNA-Seq workflow](https://github.com/kids-first/kf-rnaseq-workflow/blob/master/workflow/rmats_wf.cwl).
 We used `--variable-read-length` and `-t paired` options and applied an additional filter to include only splicing events with total junction read counts greater than 10.
+
+### Proteomics data integration
 
 #### CPTAC PBTA, CPTAC GBM, and HOPE proteogenomics
 The following methods are the general proteomics approaches used for the CPTAC PBTA [@doi:10.1016/j.cell.2020.10.044], CPTAC GBM [@doi:10.1016/j.ccell.2021.01.006], and HOPE (pre-publication, correspondence with Dr. Pei Wang) studies. 
@@ -1010,8 +1012,24 @@ For the phosphopeptide datasets, 440 markers associated with cold-regulated isch
 
 ### Creation of OpenPedCan Analysis modules
 
+#### Methylation Analysis
+**Methylation array preprocessing**
+
+We preprocessed raw Illumina 450K and EPIC 850K Infinium Human Methylation Bead Array intensities using the array preprocessing methods implemented in the `minfi Bioconductor package` [@doi:10.1093/bioinformatics/btw691].
+We utilized either `preprocessFunnorm` when an array dataset had both tumor and normal samples or multiple OpenPedCan-defined `cancer_groups` and `preprocessQuantile` when an array dataset had only tumor samples from a single OpenPedCan-defined `cancer_group` to estimate usable methylation measurements (`beta-values` and `m-values`) and copy number (`cn-values`).
+Some Illumina Infinium array probes targeting CpG loci contain single-nucleotide polymorphisms (SNPs) near or within the probe [@doi:10.1038/bjc.2013.496], which could affect DNA methylation measurements [@doi:10.1186/s12864-015-2202-0].
+As the minfi preprocessing workflow recommends, we dropped probes containing common SNPs in dbSNP (minor allele frequency > 1%) at the CpG interrogation or the single nucleotide extensions.
+
+Details of methylation array preprocessing are available in the [OpenPedCan methylation-preprocessing module](https://github.com/d3b-center/OpenPedCan-analysis/tree/dev/analyses/methylation-preprocessing).
+
+**Methylation classification of brain tumor molecular subtypes**
+
+The Clinical Methylation Unit Laboratory of Pathology at the National Cancer Institute Center for Cancer Research ran the [DKFZ brain classifier version 12.6](https://www.molecularneuropathology.org/mnp/classifiers/11), a comprehensive DNA methylation-based classification of CNS tumors across all entities and age groups [@doi:10.1038/nature26000] and/or the Bethesda Brain tumor classifier v2.0 (NIH_v2) and the combo reporter pipeline v2.0 on docker container trust1/bethesda:latest.
+Unprocessed IDAT-files from the [Children's Brain Tumor Network (CBTN)](https://cbtn.org/) `Infinium Human Methylation EPIC (850k) BeadChip arrays` were used as input and the following information was compiled into the `histologies.tsv` file: `dkfz_v12_methylation_subclass` (predicted methylation subtype), `dkfz_v12_methylation_subclass_score` (classification score), `dkfz_v12_methylation_mgmt_status` (_MGMT_ methylation status), `dkfz_v12_methylation_mgmt_estimated` (estimated _MGMT_ methylation fraction), `NIH_v2_methylation_Superfamily`, `NIH_v2_methylation_Superfamily_mean_score`, `NIH_v2_methylation_Superfamily_Consistency_score`, `NIH_v2_methylation_Class`, `NIH_v2_methylation_Class_mean_score`, `NIH_v2_methylation_Class_consistency_score`, `NIH_v2_methylation_Superfamily_match`, and `NIH_v2_methylation_Class_match`. 
+
 #### Gene Set Variation Analysis (`gene-set-enrichment-analysis` analysis module)
-Please refer to the OpenPBTA manuscript for details [@doi:10.1016/j.xgen.2023.100340].
+We performed Gene Set Variation Analysis (GSVA) for the Hallmark gene sets from MSigDB [@doi:10.1016/j.cels.2015.12.004] on log2-transformed, gene-collapsed RSEM TPM expression values from RNA-Seq using the GSVA package from Bioconductor [@doi:10.1186/1471-2105-14-7].
+GSVA was performed separately by RNA library type to avoid batch effects.
 
 #### Fusion prioritization (`fusion_filtering` analysis module)
 The [`fusion_filtering`](https://github.com/d3b-center/OpenPedCan-analysis/tree/dev/analyses/fusion_filtering) module filters artifacts and annotates fusion calls, with prioritization for oncogenic fusions, for the fusion calls from STAR-Fusion and Arriba.
@@ -1074,10 +1092,9 @@ For WXS samples, we intersected each WXS bed region file with the GENCODE v39 co
 
 Finally, we include an option (`nonsynfilter_focr`) to use specific nonsynonymous mutation variant classifications recommended from the [TMB Harmonization Project](https://friendsofcancerresearch.org/tmb/).
 
-
 #### Molecular Subtyping
 Here, we build upon the molecular subtyping performed in OpenPBTA [@doi:10.1016/j.xgen.2023.100340] to align with WHO 2021 subtypes [@doi:10.1093/neuonc/noab106].
-Molecular subtypes were generated per tumor event and are listed for each biospecimen in [**Supplemental Table 1**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable1-Histologies.xlsx), with the number of tumors grouped by broad histology and molecular subtype in [**Supplemental Table 2**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable2-Molecular-Subtype-Table.xlsx).
+Molecular subtypes were generated per tumor event and are listed for each biospecimen in [**Supplemental Table 1**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/b19ec4ffdbf4eda6b67fea10c84e1db7bd3d1b8c/tables/results/SuppTable1-Histologies.xlsx), with the number of tumors grouped by broad histology and molecular subtype in [**Supplemental Table 2**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/b19ec4ffdbf4eda6b67fea10c84e1db7bd3d1b8c/tables/results/SuppTable2-Molecular-Subtype-Table.xlsx).
 
 **High-grade gliomas**
 
@@ -1202,7 +1219,24 @@ Updates were made to non-MB, non-ATRT embryonal tumor subtyping as follows:
 2. ETMR, not otherwise specified (NOS) were classified based on _LIN28A_ over-expression and no _TTYH1_ gene fusion. 
 
 #### TP53 Alteration Annotation (`tp53_nf1_score` analysis module)
-Please refer to the OpenPBTA manuscript for details [@doi:10.1016/j.xgen.2023.100340].
+We classified TP53-altered high-grade glioma (HGG) samples as either _TP53_ lost or _TP53_ activated and incorporated these annotations into the molecular subtype framework. 
+To support this classification, we used a previously published RNA-based _TP53_ inactivation signature originally developed using TCGA pan-cancer cohorts [@doi:10.1016/j.celrep.2018.03.076].
+We applied this to OpenPedCan RNA-seq data, stratified by library preparation type. 
+This classifier was used in combination with genomic variant data, including consensus SNVs, CNVs, and structural variants (SVs), as well as curated reference databases cataloging somatic _TP53_ hotspot mutations [@doi:10.1158/2159-8290.CD-17-0321; @doi:10.1038/nbt.3391] and known functional domains [@doi:10.1038/sj.cdd.4401904] to annotate lost or activated status.
+Briefly, samples were annotated as _TP53_ activated if they harbored either of two known gain-of-function mutations: p.R273C or p.R248W [@doi:10.1038/ng0593-42]. 
+Samples were assigned _TP53_ lost status under any of the following conditions: (i) presence of a hotspot _TP53_ mutation listed in the IARC or MSKCC databases; (ii) detection of two distinct TP53 alterations (e.g., SNV, CNV, or SV) consistent with biallelic inactivation; (iii) presence of a single somatic _TP53_ variant or a pathogenic germline variant associated with Li-Fraumeni syndrome (LFS) [@doi:10.1101/cshperspect.a026187]; or (iv) presence of a germline _TP53_ variant linked to LFS alongside a _TP53_ inactivation classifier score >0.5 from matched RNA-seq data.
+
+#### Clinical data harmonization
+To remain consistent with the Kids First data model and our previous OpenPBTA study [@doi:10.1016/j.xgen.2023.100340], all clinical metadata was harmonized using the same data model.
+TARGET and TCGA metadata fields (e.g., `sample_type`, `composition`, `tumor_descriptor`, etc.) were harmonized to those of Kids First.
+Additional histology-related fields were created through OpenPedCan, following molecular subtyping: `integrated_diagnosis`, `harmonized_diagnosis`, and `cancer_group`. 
+These fields were expanded from our previous study, to utilize the WHO 2021 CNS tumor classifications[@doi:10.1093/neuonc/noab106].
+Any samples with molecular subtypes which did not match the initial `pathology_diagnosis` were reviewed with a board-certified molecular pathologist and updated accordingly.
+
+#### EFO, MONDO, and NCIT Mapping
+We created a script to search ontology mappings by `cancer_group`. 
+The `efo_code` represents the Experimental Factor Ontology (EFO) description available in European Bioinformatics Institute database, the `mondo_code` represents the Mondo Disease Ontology (MONDO) from an independent resource that aims to harmonize disease definitions, and the `ncit_code` represents the NCI Thesaurus (NCIt) reference terminology.
+Codes were automatically pulled based on text matching, manually reviewed, and can be found in [**Supplemental Table 1**](https://github.com/rokitalab/OpenPedCan-Project-CNH/blob/b19ec4ffdbf4eda6b67fea10c84e1db7bd3d1b8c/tables/results/SuppTable1-Histologies.xlsx)
 
 #### Selection of independent samples (`independent-samples` analysis module)
 For analyses that require all input biospecimens to be independent, we use the OpenPedCan-analysis [independent-samples](https://github.com/d3b-center/OpenPedCan-analysis/tree/d397339d567ddeff17e7a8cdca892f6a9dd2a0ba/analyses/independent-samples) module to select only one biospecimen from each input participant.
@@ -1215,6 +1249,8 @@ We required that at least 20M total reads with 50% of RNA-Seq reads mapped to th
 We required at least 20X coverage for tumor DNA samples to be included in this analysis.
 Additional DNA- and RNA-sequencing quality control metrics can be found in [**Supplemental Table 4**](https://github.com/d3b-center/OpenPedCan-analysis/blob/d23af69b5acb508557a3a7d8d1759445c82a8b5d/tables/results/SuppTable4-dna-rna-qc.xlsx).
 
+## Ethics and Consent Statement
+All raw data were obtained through Database of Genotypes and Phenotypes (dbGAP) access requests with patients consented as "General Research Use (GRU)" or "Disease-Specific (Pediatric Cancer Research)".
 
 ## Re-use potential
 OpenPedCan represents a valuable resource, not only by significantly extending OpenPBTA to include more than 5,000 additional patients and 6,000 tumors, but also by adding a number of new "omic" data types not previously included, such as methylation arrays, miRNA-Seq, proteomics, and normal tissue RNA-Seq. 
@@ -1314,6 +1350,7 @@ We thank Rocky Breslow for GitHub actions contributions and Rust Turakulov for c
 |Antonia Chroni|Validation|
 |Miguel A. Brown|Data curation, Methodology, Formal analysis, Investigation, Software, Supervision, Writing – Original draft|
 |Adam A. Kraya|Methodology|
+|Kaylyn L. Clark|Data Curation, Writing - Review and editing|
 |Brian R. Rood|Data Curation|
 |Adam C. Resnick|Funding acquisition, Resources|
 |Nicholas Van Kuren|Data curation, Software|
