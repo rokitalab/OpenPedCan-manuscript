@@ -2,6 +2,7 @@
   {
     "id": "url:https://moleculartargets.ccdi.cancer.gov",
     "type": "website",
+    "abstract": "Molecular Targets Platform",
     "language": "en",
     "source": "https://ccdi.cancer.gov/",
     "publisher": "National Cancer Institute Childhood Cancer Data Initiative Hub",
@@ -9,7 +10,7 @@
     "URL": "https://moleculartargets.ccdi.cancer.gov/",
     "author": [
       {
-        "literal": "National Cancer Institute Childhood Cancer Data Initiative"
+        "literal": "Molecular Targets Platform, National Cancer Institute Childhood Cancer Data Initiative"
       }
     ],
     "accessed": {
@@ -34,39 +35,58 @@
   {
     "id": "url:https://kidsfirstdrc.org",
     "type": "website",
+    "abstract": "Kids First DRC - Pediatric Cancer and Rare Disease Care",
     "language": "en",
     "source": "https://kidsfirstdrc.org/",
     "publisher": "Kids First Data Resource Center",
-    "title": "Kids First Data Portal",
+    "title": "Kids First Data Resource Center",
     "URL": "https://kidsfirstdrc.org/",
     "author": [
       {
-        "literal": "Kids First Data Resource Center"
+        "literal": "Kids First Portal, Kids First Data Resource Center"
       }
     ],
-    "issued": {
+    "accessed": {
       "date-parts": [
         [
           "2025",
-          07,
-          25
+          7,
+          11
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          11,
+          24
         ]
       ]
     }
   },
   {
-    "id": "phs000218.v23.p8",
+    "id": "dbgap:phs000218.v23.p8",
     "type": "website",
     "language": "en",
     "source": "https://dbgap.ncbi.nlm.nih.gov/",
     "publisher": "National Institutes of Health",
+    "DBGAP": "phs000218.v23.p8",
     "title": "National Cancer Institute (NCI) TARGET: Therapeutically Applicable Research to Generate Effective Treatments",
-    "URL": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000218.v23.p8",
     "author": [
       {
         "literal": "National Institutes of Health database of Genotypes and Phenotypes"
       }
     ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2022",
+          01,
+          01
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
