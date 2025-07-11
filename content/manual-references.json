@@ -3,7 +3,6 @@
     "id": "url:https://moleculartargets.ccdi.cancer.gov",
     "type": "website",
     "language": "en",
-    "abstract": "",
     "source": "https://ccdi.cancer.gov/",
     "publisher": "National Cancer Institute Childhood Cancer Data Initiative Hub",
     "title": "Molecular Targets Platform",
@@ -36,7 +35,6 @@
     "id": "url:https://kidsfirstdrc.org",
     "type": "website",
     "language": "en",
-    "abstract": "",
     "source": "https://kidsfirstdrc.org/",
     "publisher": "Kids First Data Resource Center",
     "title": "Kids First Data Portal",
@@ -57,10 +55,9 @@
     }
   },
   {
-    "id": "dbgap:phs000218.v23.p8",
+    "id": "phs000218.v23.p8",
     "type": "website",
     "language": "en",
-    "abstract": "",
     "source": "https://dbgap.ncbi.nlm.nih.gov/",
     "publisher": "National Institutes of Health",
     "title": "National Cancer Institute (NCI) TARGET: Therapeutically Applicable Research to Generate Effective Treatments",
