@@ -1,6 +1,6 @@
 [
   {
-    "id": "url:https://moleculartargets.ccdi.cancer.gov/",
+    "id": "url:https://moleculartargets.ccdi.cancer.gov",
     "type": "website",
     "abstract": "Molecular Targets Platform",
     "language": "en",
@@ -10,7 +10,40 @@
     "URL": "https://moleculartargets.ccdi.cancer.gov/",
     "author": [
       {
-        "literal": "Molecular Targets Platform, National Cancer Institute Childhood Cancer Data Initiative "
+        "literal": "Molecular Targets Platform, National Cancer Institute Childhood Cancer Data Initiative"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2025",
+          7,
+          11
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          11,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "id": "url:https://kidsfirstdrc.org",
+    "type": "website",
+    "abstract": "Kids First DRC - Pediatric Cancer and Rare Disease Care",
+    "language": "en",
+    "source": "https://kidsfirstdrc.org/",
+    "publisher": "Kids First Data Resource Center",
+    "title": "Kids First Data Resource Center",
+    "URL": "https://kidsfirstdrc.org/",
+    "author": [
+      {
+        "literal": "Kids First Portal, Kids First Data Resource Center"
       }
     ],
     "accessed": {
