@@ -2,7 +2,6 @@
   {
     "id": "url:https://moleculartargets.ccdi.cancer.gov",
     "type": "website",
-    "abstract": "Molecular Targets Platform",
     "language": "en",
     "source": "https://ccdi.cancer.gov/",
     "publisher": "National Cancer Institute Childhood Cancer Data Initiative Hub",
@@ -10,7 +9,7 @@
     "URL": "https://moleculartargets.ccdi.cancer.gov/",
     "author": [
       {
-        "literal": "Molecular Targets Platform, National Cancer Institute Childhood Cancer Data Initiative"
+        "literal": "National Cancer Institute Childhood Cancer Data Initiative"
       }
     ],
     "accessed": {
@@ -35,32 +34,45 @@
   {
     "id": "url:https://kidsfirstdrc.org",
     "type": "website",
-    "abstract": "Kids First DRC - Pediatric Cancer and Rare Disease Care",
     "language": "en",
     "source": "https://kidsfirstdrc.org/",
     "publisher": "Kids First Data Resource Center",
-    "title": "Kids First Data Resource Center",
+    "title": "Kids First Data Portal",
     "URL": "https://kidsfirstdrc.org/",
     "author": [
       {
-        "literal": "Kids First Portal, Kids First Data Resource Center"
+        "literal": "Kids First Data Resource Center"
       }
     ],
-    "accessed": {
+    "issued": {
       "date-parts": [
         [
           "2025",
-          7,
-          11
+          07,
+          25
         ]
       ]
-    },
+    }
+  },
+  {
+    "id": "dbgap:phs000218.v23.p8",
+    "type": "website",
+    "language": "en",
+    "source": "https://dbgap.ncbi.nlm.nih.gov/",
+    "publisher": "National Institutes of Health",
+    "title": "National Cancer Institute (NCI) TARGET: Therapeutically Applicable Research to Generate Effective Treatments",
+    "URL": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000218.v23.p8",
+    "author": [
+      {
+        "literal": "National Institutes of Health database of Genotypes and Phenotypes"
+      }
+    ],
     "issued": {
       "date-parts": [
         [
           "2022",
-          11,
-          24
+          01,
+          01
         ]
       ]
     }
