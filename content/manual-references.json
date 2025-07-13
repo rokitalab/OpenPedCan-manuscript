@@ -1,6 +1,6 @@
 [
   {
-    "id": "url:https://moleculartargets.ccdi.cancer.gov",
+    "id": "mtp",
     "type": "website",
     "abstract": "Molecular Targets Platform",
     "language": "en",
@@ -33,7 +33,7 @@
     }
   },
   {
-    "id": "url:https://kidsfirstdrc.org",
+    "id": "kfdrc",
     "type": "website",
     "abstract": "Kids First DRC - Pediatric Cancer and Rare Disease Care",
     "language": "en",
@@ -66,8 +66,8 @@
     }
   },
   {
-    "id": "dbgap:phs000218.v23.p8",
-    "type": "website",
+    "id": "phs000218.v23.p8",
+    "type": "dataset",
     "language": "en",
     "source": "https://dbgap.ncbi.nlm.nih.gov/",
     "publisher": "National Institutes of Health",
