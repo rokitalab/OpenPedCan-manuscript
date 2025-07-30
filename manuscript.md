@@ -6,7 +6,7 @@ keywords:
 - open science
 - multi-omics
 lang: en-US
-date-meta: '2025-07-14'
+date-meta: '2025-07-30'
 author-meta:
 - Zhuangzhuang Geng
 - Eric Wafula
@@ -68,11 +68,11 @@ header-includes: |
   <meta name="citation_title" content="The Open Pediatric Cancer Project" />
   <meta property="og:title" content="The Open Pediatric Cancer Project" />
   <meta property="twitter:title" content="The Open Pediatric Cancer Project" />
-  <meta name="dc.date" content="2025-07-14" />
-  <meta name="citation_publication_date" content="2025-07-14" />
-  <meta property="article:published_time" content="2025-07-14" />
-  <meta name="dc.modified" content="2025-07-14T17:23:04+00:00" />
-  <meta property="article:modified_time" content="2025-07-14T17:23:04+00:00" />
+  <meta name="dc.date" content="2025-07-30" />
+  <meta name="citation_publication_date" content="2025-07-30" />
+  <meta property="article:published_time" content="2025-07-30" />
+  <meta name="dc.modified" content="2025-07-30T16:52:57+00:00" />
+  <meta property="article:modified_time" content="2025-07-30T16:52:57+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -274,9 +274,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/" />
   <meta name="citation_pdf_url" content="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rokitalab.github.io/OpenPedCan-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/7e0a575ec95818e8df278b3a2f8e88a606dfc5e1/" />
-  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/7e0a575ec95818e8df278b3a2f8e88a606dfc5e1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/7e0a575ec95818e8df278b3a2f8e88a606dfc5e1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rokitalab.github.io/OpenPedCan-manuscript/v/9dbe02862b908e256a5131c37dff2f2f8040fde6/" />
+  <meta name="manubot_html_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/9dbe02862b908e256a5131c37dff2f2f8040fde6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rokitalab.github.io/OpenPedCan-manuscript/v/9dbe02862b908e256a5131c37dff2f2f8040fde6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -298,10 +298,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/7e0a575ec95818e8df278b3a2f8e88a606dfc5e1/))
+([permalink](https://rokitalab.github.io/OpenPedCan-manuscript/v/9dbe02862b908e256a5131c37dff2f2f8040fde6/))
 was automatically generated
-from [rokitalab/OpenPedCan-manuscript@7e0a575](https://github.com/rokitalab/OpenPedCan-manuscript/tree/7e0a575ec95818e8df278b3a2f8e88a606dfc5e1)
-on 2025-07-14.
+from [rokitalab/OpenPedCan-manuscript@9dbe028](https://github.com/rokitalab/OpenPedCan-manuscript/tree/9dbe02862b908e256a5131c37dff2f2f8040fde6)
+on 2025-07-30.
 </em></small>
 
 ## Authors
